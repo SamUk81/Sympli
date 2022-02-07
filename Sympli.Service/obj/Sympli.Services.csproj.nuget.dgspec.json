@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Service\\Sympli.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Contract\\Sympli.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Contract\\Sympli.Contracts.csproj",
+        "projectName": "Sympli.Contracts",
+        "projectPath": "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Contract\\Sympli.Contracts.csproj",
+        "packagesPath": "C:\\Users\\sam.khanjar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sam.khanjar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Models\\Sympli.Models.csproj": {
+                "projectPath": "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Models\\Sympli.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Models\\Sympli.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Models\\Sympli.Models.csproj",
+        "projectName": "Sympli.Models",
+        "projectPath": "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Models\\Sympli.Models.csproj",
+        "packagesPath": "C:\\Users\\sam.khanjar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sam.khanjar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Service\\Sympli.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Service\\Sympli.Services.csproj",
+        "projectName": "Sympli.Services",
+        "projectPath": "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Service\\Sympli.Services.csproj",
+        "packagesPath": "C:\\Users\\sam.khanjar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sam.khanjar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Contract\\Sympli.Contracts.csproj": {
+                "projectPath": "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Contract\\Sympli.Contracts.csproj"
+              },
+              "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Models\\Sympli.Models.csproj": {
+                "projectPath": "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Models\\Sympli.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

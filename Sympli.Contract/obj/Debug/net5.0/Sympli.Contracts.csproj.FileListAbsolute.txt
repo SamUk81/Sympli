@@ -1,0 +1,15 @@
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Contract\bin\Debug\net5.0\Sympli.Contracts.deps.json
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Contract\bin\Debug\net5.0\Sympli.Contracts.dll
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Contract\bin\Debug\net5.0\ref\Sympli.Contracts.dll
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Contract\bin\Debug\net5.0\Sympli.Contracts.pdb
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Contract\bin\Debug\net5.0\Sympli.Models.dll
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Contract\bin\Debug\net5.0\Sympli.Models.pdb
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Contract\obj\Debug\net5.0\Sympli.Contracts.csproj.AssemblyReference.cache
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Contract\obj\Debug\net5.0\Sympli.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Contract\obj\Debug\net5.0\Sympli.Contracts.AssemblyInfoInputs.cache
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Contract\obj\Debug\net5.0\Sympli.Contracts.AssemblyInfo.cs
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Contract\obj\Debug\net5.0\Sympli.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Contract\obj\Debug\net5.0\Sympli.Contracts.csproj.CopyComplete
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Contract\obj\Debug\net5.0\Sympli.Contracts.dll
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Contract\obj\Debug\net5.0\ref\Sympli.Contracts.dll
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Contract\obj\Debug\net5.0\Sympli.Contracts.pdb

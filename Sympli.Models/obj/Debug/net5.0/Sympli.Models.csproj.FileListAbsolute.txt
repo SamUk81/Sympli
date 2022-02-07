@@ -1,0 +1,12 @@
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Models\bin\Debug\net5.0\Sympli.Models.deps.json
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Models\bin\Debug\net5.0\Sympli.Models.dll
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Models\bin\Debug\net5.0\ref\Sympli.Models.dll
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Models\bin\Debug\net5.0\Sympli.Models.pdb
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Models\obj\Debug\net5.0\Sympli.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Models\obj\Debug\net5.0\Sympli.Models.AssemblyInfoInputs.cache
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Models\obj\Debug\net5.0\Sympli.Models.AssemblyInfo.cs
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Models\obj\Debug\net5.0\Sympli.Models.csproj.CoreCompileInputs.cache
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Models\obj\Debug\net5.0\Sympli.Models.dll
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Models\obj\Debug\net5.0\ref\Sympli.Models.dll
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Models\obj\Debug\net5.0\Sympli.Models.pdb
+C:\Users\sam.khanjar\source\repos\Sympli\Sympli.Models\obj\Debug\net5.0\Sympli.Models.csproj.AssemblyReference.cache

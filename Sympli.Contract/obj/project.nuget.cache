@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fhv6xF+CJkqXeOvq/vgdyssRTORhJ/K6v4Hnz5H8E8VbefKxVtPQUjAsu1GCZVLjD04+ITDCX1IAAnLAIoZRog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sam.khanjar\\source\\repos\\Sympli\\Sympli.Contract\\Sympli.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sam.khanjar\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\sam.khanjar\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
