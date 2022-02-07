@@ -9,4 +9,4 @@ Implemented clean architecture and best practices - DDD SOLID principles DI unit
 5. Run the project by pressing F5 or by clicking on Debug >> Start Debugging from top menu.
 
 # Future Development
-Develop error handling, logging and more test coverage for both backend and frontend.
+Develop error handling, logging and more test coverage for both backend and frontend. Also UI could be deployed seperatly from backend for better performance and quicker CICD Nugget packages can be inplace for different projects to avoid building or deploying all projects if not needed.
